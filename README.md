@@ -61,7 +61,7 @@ Read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, 
 
 ## ⚖️ License ⚖️
 
-This project is licensed under the GNU General Public License v3.0. Read the [LICENSE](LICENSE.md) for details.
+This project is licensed under the GNU General Public License v3.0. Read the [LICENSE](LICENSE) for details.
 
 ---
 
